@@ -102,6 +102,7 @@ A: Yes, currently it uses float32. Float16 should be significantly faster(almost
 
 - [x] Release model and code
 - [x] Huggingface spaces demo
+- [ ] Release mps support
 - [ ] Release code for float16 inference
 
 ## Acknowledgments
