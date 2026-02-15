@@ -12,7 +12,7 @@ pydub
 onnxruntime
 git+https://github.com/P2Enjoy/LinaCodec.git
 librosa
-transformers<=4.57.6
+transformers
 
 # Normalization
 cn2an
@@ -20,6 +20,6 @@ inflect
 
 # Tokenization
 jieba
-piper_phonemize
+piper-phonemize-fix
 pypinyin
 setuptools<81
